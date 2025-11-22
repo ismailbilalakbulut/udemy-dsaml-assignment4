@@ -1,4 +1,4 @@
-# Diyabet Tahmin Modelleri Karşılaştırması (Sınıflandırma)
+# 🏠 Udemy Veri Bilimi ve Makine Öğrenmesi: 100 Günlük Kamp — 4. Ödev
 
 Bu depo, Udemy’de aldığım Makine Öğrenmesi kursunun ödevleri kapsamında, Pima Indians Diabetes veri setini kullanarak **Sınıflandırma Problemi** üzerine bir çözüm sunmak üzere hazırlanmıştır.
 
